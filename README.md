@@ -92,11 +92,12 @@ Right aligned columns.
 
    [link text](http://dev.nodeca.com)
    
-   [link with title](http://nodeca.github.io/pica/demo/)"title text!"
+   [link with title](https://www.rollingstone.com/wp-content/uploads/2022/04/seventeen-SVT_Darl-ing_Exclusive_ALL.jpg?w=1581&h=1054&crop=1)"title text!"
    
    
    ## Images
    
    ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-   
+  
+  
    ## The End!
