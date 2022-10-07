@@ -99,5 +99,7 @@ Right aligned columns.
    
    ![This is an image](https://www.rollingstone.com/wp-content/uploads/2022/04/seventeen-SVT_Darl-ing_Exclusive_ALL.jpg?w=1581&h=1054&crop=1)
   
+  #Build setting
+  theme: minima
   
    ## The End!
