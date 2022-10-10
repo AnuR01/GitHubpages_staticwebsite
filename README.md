@@ -28,18 +28,18 @@ Welcome to the Diamond Life!
 
 
    * S.Coups
-   *  Jeonghan
-   *   Joshua
-   *   Jun
-   *   Hoshi
-   *    Wonwoo
-   *     Woozi
-   *      DK
-   *       Mingyu 
-   *       The8
-   *       Seungkwan
-   *        Vernon
-   *          Dino
+   * Jeonghan
+   * Joshua
+   * Jun
+   * Hoshi
+   * Wonwoo
+   * Woozi
+   * DK
+   * Mingyu 
+   * The8
+   * Seungkwan
+   * Vernon
+   *  Dino
   :
    
   
