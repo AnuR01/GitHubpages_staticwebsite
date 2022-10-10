@@ -1,7 +1,5 @@
-# H1
-## H2
-### H3
-#### H4
+# Seventeen: The Band
+
 
 ## Horizontal Rules
 
@@ -9,20 +7,20 @@ __
 
 
 ## Emphasis
-*This is bold text*
+*SEVENTEEN*
 
-__This is bold text__
+__This is Fan Page website dedicted to Seventeen__
 
-This is italic text
+Welcome to the Diamond Life!
 
 
 ~Strikethrough~
 
 ## Blockquotes
 
->Blockquotes can also be nested...
->> ...by using additional greater-than signs next to each other
-> > > ...or with spaces between arrows.
+
+>> Seventeen is a South Korean boy band formed by Pledis Entertainment!
+
 
 
 ## Lists
@@ -39,26 +37,17 @@ unordered
    
    Ordered
    
-   Lorem ipsum dolsr sit amet
-   Consectetur adipiscing elit
-   Integer molestie lorem at massa
+   Seventeen has 13 members.
+   They have 3 Units.
    
-   ## Code
    
-   Inline 'code'
-   
-   Indented code
-   
-   //Some comments
-   line 1 of code
-   line 2 of code
-   line 3 of code
-   
+
    
    Block code "fences"
    
    
-   Sample text here...
+  The group consists of thirteen members: S.Coups, Jeonghan, Joshua, Jun, Hoshi, Wonwoo, Woozi, DK, Mingyu, The8, Seungkwan, Vernon, and Dino.
+  The groupd consists of members from China, South Kore, and U.S.A.
    
    
    Syntax hightlighting
@@ -71,26 +60,11 @@ unordered
    console.log(foo(5));
    
    
-   ## Tables
-   
-
-| Option       | Describtion       
-| ------------- |:-------------:| 
-| data      | path to data files to supply the data that will be passed into templates. | 
-| engine      | engine to be used for processing templates. HAndlebars is the default.|   
-| ext | extension to be used for dest files.| 
-
-Right aligned columns.
-
-| Option       | Describtion       
-| ------------- |:-------------:| 
-| data      | path to data files to supply the data that will be passed into templates. | 
-| engine      | engine to be used for processing templates. HAndlebars is the default.|   
-| ext | extension to be used for dest files.| 
+ 
 
 ## Links
 
-   [link text](http://dev.nodeca.com)
+   [link text](http://https://www.youtube.com/channel/UCfkXDY7vwkcJ8ddFGz8KusA)
    
    [link with title](https://www.rollingstone.com/wp-content/uploads/2022/04/seventeen-SVT_Darl-ing_Exclusive_ALL.jpg?w=1581&h=1054&crop=1)"title text!"
    
